@@ -6,72 +6,125 @@ endobj
 << /Type /Pages /Kids [3 0 R] /Count 1 >>
 endobj
 3 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
 endobj
 4 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
 endobj
 5 0 obj
-<< /Length 856 >>
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 1287 >>
 stream
 BT
-/F1 18 Tf
-72 760 Td
+/F2 20 Tf
+1 0 0 1 72 750 Tm
 (RIAZ JAMALI) Tj
-0 -30 Td
+ET
+BT
 /F1 12 Tf
+1 0 0 1 72 720 Tm
 (BS Software Engineering Student) Tj
-0 -16 Td
+ET
+BT
+/F1 11 Tf
+1 0 0 1 72 700 Tm
 (University of Sindh) Tj
-0 -16 Td
-0 -8 Td
+ET
+BT
+/F1 10 Tf
+1 0 0 1 72 680 Tm
+(Email: riazjamali123@gmail.com) Tj
+ET
+BT
+/F2 12 Tf
+1 0 0 1 72 646 Tm
 (CAREER OBJECTIVE) Tj
-0 -22 Td
+ET
+BT
 /F1 11 Tf
+1 0 0 1 72 626 Tm
 (To grow as a professional web developer and contribute to useful digital products.) Tj
-0 -16 Td
-0 -8 Td
+ET
+BT
+/F2 12 Tf
+1 0 0 1 72 594 Tm
 (EDUCATION) Tj
-0 -22 Td
+ET
+BT
 /F1 11 Tf
-(BS Software Engineering) Tj
-0 -16 Td
-(University of Sindh) Tj
-0 -16 Td
-(Current academic program) Tj
-0 -16 Td
-0 -8 Td
+1 0 0 1 72 574 Tm
+(BS Software Engineering - University of Sindh) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 72 554 Tm
+(Started 2023 - Current academic program) Tj
+ET
+BT
+/F2 12 Tf
+1 0 0 1 72 522 Tm
 (TECHNICAL SKILLS) Tj
-0 -22 Td
+ET
+BT
 /F1 11 Tf
+1 0 0 1 72 502 Tm
 (HTML, CSS, JavaScript, Git, GitHub, VS Code) Tj
-0 -16 Td
+ET
+BT
+/F1 11 Tf
+1 0 0 1 72 482 Tm
 (Responsive web design and distributed computing concepts) Tj
-0 -16 Td
-0 -8 Td
+ET
+BT
+/F2 12 Tf
+1 0 0 1 72 450 Tm
 (PROJECTS) Tj
-0 -22 Td
+ET
+BT
 /F1 11 Tf
+1 0 0 1 72 430 Tm
 (Professional Portfolio Website) Tj
-0 -16 Td
-(Study Task Manager) Tj
-0 -16 Td
-(Distributed Task Simulator) Tj
-0 -16 Td
-0 -8 Td
-(CONTACT) Tj
-0 -22 Td
+ET
+BT
 /F1 11 Tf
+1 0 0 1 72 411 Tm
+(Study Task Manager) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 72 392 Tm
+(Distributed Task Simulator) Tj
+ET
+BT
+/F2 12 Tf
+1 0 0 1 72 360 Tm
+(CONTACT) Tj
+ET
+BT
+/F1 11 Tf
+1 0 0 1 72 340 Tm
 (riazjamali123@gmail.com) Tj
-0 -16 Td
+ET
+BT
+/F1 11 Tf
+1 0 0 1 72 321 Tm
+(github.com/Riaz201) Tj
 ET
 endstream
 endobj
 xref
-0 6
+0 7
 0000000000 65535 f 
-0000000009 00000 n `n0000000058 00000 n `n0000000115 00000 n `n0000000241 00000 n `n0000000311 00000 n `ntrailer
-<< /Size 6 /Root 1 0 R >>
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000000321 00000 n 
+0000000396 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
 startxref
-1218
+1734
 %%EOF
