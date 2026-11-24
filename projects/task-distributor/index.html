@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Distributed Task Simulator</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="app">
+    <header>
+      <p>Parallel and Distributed Computing</p>
+      <h1>Distributed Task Simulator</h1>
+    </header>
+
+    <div class="controls">
+      <label for="task-count">Number of tasks</label>
+      <input id="task-count" type="number" min="1" max="12" value="6">
+      <button id="run-button" type="button">Distribute work</button>
+    </div>
+
+    <section class="nodes" aria-label="Worker nodes">
+      <article class="node">
+        <h2>Node 01</h2>
+        <div class="node-status" id="node-one-status">Waiting</div>
+        <div class="progress"><span id="node-one-bar"></span></div>
+      </article>
+      <article class="node">
+        <h2>Node 02</h2>
+        <div class="node-status" id="node-two-status">Waiting</div>
+        <div class="progress"><span id="node-two-bar"></span></div>
+      </article>
+    </section>
+
+    <p id="result" class="result" aria-live="polite">Enter a task count and distribute the work.</p>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>
